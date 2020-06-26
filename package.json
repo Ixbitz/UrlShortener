@@ -14,7 +14,7 @@
     "start": "node index.js",
     "testCodeQuality": "eslint *.js",
     "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\""
+    "tests": "echo \"Error: no test specified\""
   },
   "dependencies": {
     "cors": "^2.8.5",
